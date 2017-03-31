@@ -11,7 +11,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 /**
  *
- * @author ambercox
+ * @author Roberttysor
  */
 public class chat_client extends javax.swing.JFrame {
 
